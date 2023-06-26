@@ -1,5 +1,5 @@
 {
-    "name": "davidpiesse/nova-map",
+    "name": "HostitOnlile/nova-map",
     "description": "Map field for Laravel Nova",
     "keywords": [
         "laravel",
@@ -7,17 +7,17 @@
     ],
     "license": "MIT",
     "require": {
-        "php": ">=7.1.0"
+        "php": ">=8.1"
     },
     "autoload": {
         "psr-4": {
-            "Davidpiesse\\Map\\": "src/"
+            "HostitOnlile\\Map\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Davidpiesse\\Map\\FieldServiceProvider"
+                "HostitOnlile\\Map\\FieldServiceProvider"
             ]
         }
     },
