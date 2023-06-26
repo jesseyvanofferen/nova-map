@@ -1,10 +1,6 @@
-[![Total Downloads](https://poser.pugx.org/davidpiesse/nova-map/downloads)](https://packagist.org/packages/davidpiesse/nova-map)
-[![Latest Stable Version](https://poser.pugx.org/davidpiesse/nova-map/v/stable)](https://packagist.org/packages/davidpiesse/nova-map)
 # Map Field
 
 This map field currently ONLY shows in details view
-
-![Gif!](https://res.cloudinary.com/davidpiesse/image/upload/v1535397821/ezgif.com-resize_fbxddc.gif)
 
 You can use this Map Field with three different sort of spatial data:
 * GeoJSON String property
